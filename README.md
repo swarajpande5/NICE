@@ -6,12 +6,12 @@ Please cite the paper by the original authors and credit them (not me or this re
 
 ["NICE: Non-linear independent components estimation"](http://arxiv.org/abs/1410.8516), Laurent Dinh, David Krueger, Yoshua Bengio. ArXiv 2014.
 
-## Running at Localhost
+## Local Setup
 
 Pre-requisites include Git, Python 3.4 or newer with PyTorch
 
 ```
-git clone https://swarajpande4/NICE.git
+git clone https://github.com/swarajpande5/NICE.git
 ```
 
 ```

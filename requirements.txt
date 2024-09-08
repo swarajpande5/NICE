@@ -1,6 +1,7 @@
-numpy==1.23.0
-torch==1.12.0
-tqdm==4.64.0
-typing_extensions==4.3.0
-torchvision==2.27.1
-scipy==1.9.1
+numpy
+torch
+tqdm
+typing_extensions
+torchvision
+scipy
+flake8

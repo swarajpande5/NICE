@@ -1,0 +1,5 @@
+[flake8]
+exclude = 
+    venv,
+    tests
+max-line-length = 120

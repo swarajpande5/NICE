@@ -1,9 +1,11 @@
-## CONTRIBUTING
+## Contribution Guide
 
-Want to contribute, that's great follow the steps below:-
+You want to contribute ? That's great !
 
-- Fork the repo
-- Clone the repo to local,
+Follow the following steps,
+
+- Fork the repository
+- Clone your forked repository onto your local system,
 
   ```
    git clone https://github.com/<your_user_name>/NICE.git
@@ -22,7 +24,7 @@ Want to contribute, that's great follow the steps below:-
    git checkout <branch_name>
   ```
 
-- Make some wonder full contributions then, add, commit and push them to your branch.
+- Make some awesome contributions then, add, commit and push them to your branch.
 
   ```
    git add .
@@ -30,16 +32,10 @@ Want to contribute, that's great follow the steps below:-
    git push origin <branch_name>
   ```
 
-- Create a pull request. And wait for the review.
+- Create a pull request, and wait for the review.
 
-## Note
+## Style Guide
 
-> Use snake_case or camelCase notation to name the methods and variables. </br>
-> Use PascalCase for class names.
-
-<hr>
-<div align="center">
-	<font size="5">
-		<strong>🎉 Happy Contributing  🎉</strong>
-	</font>
-</div>
+> Use `snake_case` notation to name the methods and variables. </br>
+> Use `PascalCase` for class names. </br>
+> Run `flake8` before raising a PR to check for a lint check.
